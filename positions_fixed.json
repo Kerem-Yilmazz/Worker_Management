@@ -1,0 +1,112 @@
+[
+  {
+    "_id": "6899d2fe2c8d29da0ab0c96b",
+    "name": "Yazılım Geliştirme Birimi",
+    "department": "6899d2fe2c8d29da0ab0c969",
+    "level": 5,
+    "description": "Yazılım geliştirme ekibi yönetimi",
+    "isActive": true,
+    "createdAt": "2025-08-11T11:24:46.604Z",
+    "__v": 0
+  },
+  {
+    "_id": "6899d2fe2c8d29da0ab0c96d",
+    "name": "Test Birimi",
+    "department": "6899d2fe2c8d29da0ab0c969",
+    "level": 4,
+    "description": "Yazılım testleri ve kalite kontrol",
+    "isActive": true,
+    "createdAt": "2025-08-11T11:24:46.605Z",
+    "__v": 0
+  },
+  {
+    "_id": "6899d2fe2c8d29da0ab0c96f",
+    "name": "DevOps Birimi",
+    "department": "6899d2fe2c8d29da0ab0c969",
+    "level": 4,
+    "description": "Sistem operasyonları ve deployment",
+    "isActive": true,
+    "createdAt": "2025-08-11T11:24:46.606Z",
+    "__v": 0
+  },
+  {
+    "_id": "6899d2fe2c8d29da0ab0c971",
+    "name": "Veri Tabanı Birimi",
+    "department": "6899d2fe2c8d29da0ab0c969",
+    "level": 3,
+    "description": "Veri tabanı yönetimi ve optimizasyon",
+    "isActive": true,
+    "createdAt": "2025-08-11T11:24:46.607Z",
+    "__v": 0
+  },
+  {
+    "_id": "6899d2fe2c8d29da0ab0c973",
+    "name": "Ağ Güvenliği Birimi",
+    "department": "6899d2fe2c8d29da0ab0c969",
+    "level": 3,
+    "description": "Siber güvenlik ve ağ koruması",
+    "isActive": true,
+    "createdAt": "2025-08-11T11:24:46.607Z",
+    "__v": 0
+  },
+  {
+    "_id": "6899d2fe2c8d29da0ab0c975",
+    "name": "Genel Müdür",
+    "department": "6899d2fe2c8d29da0ab0c967",
+    "level": 10,
+    "description": "Şirket genel müdürü",
+    "isActive": true,
+    "createdAt": "2025-08-11T11:24:46.608Z",
+    "__v": 0
+  },
+  {
+    "_id": "6899d2fe2c8d29da0ab0c977",
+    "name": "Genel Müdür Yardımcısı",
+    "department": "6899d2fe2c8d29da0ab0c967",
+    "level": 9,
+    "description": "Genel müdür yardımcısı",
+    "isActive": true,
+    "createdAt": "2025-08-11T11:24:46.608Z",
+    "__v": 0
+  },
+  {
+    "_id": "6899d2fe2c8d29da0ab0c979",
+    "name": "Strateji Müdürü",
+    "department": "6899d2fe2c8d29da0ab0c967",
+    "level": 8,
+    "description": "Şirket stratejisi ve planlama",
+    "isActive": true,
+    "createdAt": "2025-08-11T11:24:46.610Z",
+    "__v": 0
+  },
+  {
+    "_id": "6899d2fe2c8d29da0ab0c97b",
+    "name": "İnsan Kaynakları Müdürü",
+    "department": "6899d2fe2c8d29da0ab0c967",
+    "level": 8,
+    "description": "İnsan kaynakları yönetimi",
+    "isActive": true,
+    "createdAt": "2025-08-11T11:24:46.610Z",
+    "__v": 0
+  },
+  {
+    "_id": "6899d2fe2c8d29da0ab0c97d",
+    "name": "Finans Müdürü",
+    "department": "6899d2fe2c8d29da0ab0c967",
+    "level": 8,
+    "description": "Finansal yönetim ve muhasebe",
+    "isActive": true,
+    "createdAt": "2025-08-11T11:24:46.611Z",
+    "__v": 0
+  },
+  {
+    "_id": "6899d4017e724370d5b7be8f",
+    "name": "Stajyer",
+    "department": "6899d2fe2c8d29da0ab0c969",
+    "level": 1,
+    "description": "",
+    "isActive": true,
+    "createdAt": "2025-08-11T11:29:05.789Z",
+    "__v": 0
+  }
+]

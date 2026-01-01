@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "689a059987212b271cb78893",
+    "user": "6899d3527e724370d5b7be7e",
+    "month": 8,
+    "year": 2025,
+    "baseSalary": 25000,
+    "bonus": 0,
+    "deductions": 0,
+    "netSalary": 25000,
+    "currency": "TRY",
+    "isPaid": false,
+    "createdAt": "2025-08-11T15:00:41.090Z",
+    "__v": 0
+  },
+  {
+    "_id": "689a059987212b271cb78896",
+    "user": "6899d38c7e724370d5b7be86",
+    "month": 8,
+    "year": 2025,
+    "baseSalary": 120000,
+    "bonus": 0,
+    "deductions": 0,
+    "netSalary": 120000,
+    "currency": "TRY",
+    "isPaid": false,
+    "createdAt": "2025-08-11T15:00:41.097Z",
+    "__v": 0
+  },
+  {
+    "_id": "689a059987212b271cb78899",
+    "user": "6899d42e7e724370d5b7be94",
+    "month": 8,
+    "year": 2025,
+    "baseSalary": 8000,
+    "bonus": 0,
+    "deductions": 0,
+    "netSalary": 8000,
+    "currency": "TRY",
+    "isPaid": false,
+    "createdAt": "2025-08-11T15:00:41.099Z",
+    "__v": 0
+  }
+]

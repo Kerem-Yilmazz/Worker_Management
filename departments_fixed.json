@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "6899d2fe2c8d29da0ab0c967",
+    "name": "Genel Müdürlük",
+    "description": "Şirket genel yönetimi ve strateji",
+    "isActive": true,
+    "createdAt": "2025-08-11T11:24:46.599Z",
+    "__v": 0
+  },
+  {
+    "_id": "6899d2fe2c8d29da0ab0c969",
+    "name": "IT Departmanı",
+    "description": "Bilgi Teknolojileri ve Yazılım Geliştirme",
+    "isActive": true,
+    "createdAt": "2025-08-11T11:24:46.603Z",
+    "__v": 0
+  },
+  {
+    "_id": "6899d3eb7e724370d5b7be8c",
+    "name": "İnsan Kaynakları",
+    "description": "Çalışanlarla ilgili tüm süreçlerin yönetim departmanı",
+    "isActive": true,
+    "createdAt": "2025-08-11T11:28:43.051Z",
+    "__v": 0
+  }
+]
